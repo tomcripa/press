@@ -58,7 +58,7 @@
   --bs-danger-text-emphasis: #58151c;
   --bs-light-text-emphasis: #495057;
   --bs-dark-text-emphasis: #495057;
-  --bs-accent-text-emphasis: #410000;
+  --bs-accent-text-emphasis:   rgba(223, 14, 100, 1);
   --bs-primary-bg-subtle: #d5d9ec;
   --bs-secondary-bg-subtle: #e2e3e5;
   --bs-success-bg-subtle: #d1e7dd;
@@ -3142,7 +3142,7 @@ fieldset:disabled .btn {
 }
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #2f3f9f;
+  --bs-btn-bg: rgba(238, 90, 56, 1);
   --bs-btn-border-color: #2f3f9f;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #283687;
@@ -14701,7 +14701,7 @@ fieldset:disabled .btn {
   background: linear-gradient(120deg, #e4a0a1, #e4a0a1);
   background-position: 0 100%;
   background-repeat: no-repeat;
-  background-size: 100% 20%;
+  background-size: 100% 10%;
 }
 .bsb-tpl-highlight.bsb-tpl-highlight-yellow {
   background-image: linear-gradient(120deg, #fff3cd, #fff3cd);
