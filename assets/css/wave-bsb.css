@@ -14704,10 +14704,10 @@ fieldset:disabled .btn {
   background-size: 100% 10%;
 }
 .bsb-tpl-highlight.bsb-tpl-highlight-yellow {
-  background-image: linear-gradient(120deg, #fff3cd, #fff3cd);
+  background-image: linear-gradient(120deg, rgba(254, 198, 56, 1) , rgba(254, 228, 90, 1) );
 }
 .bsb-tpl-highlight.bsb-tpl-highlight-blue {
-  background-image: linear-gradient(120deg, #b8e1ff, #b8e1ff);
+  background-image: linear-gradient(120deg, rgba(247, 138, 35, 1), rgba(238, 90, 56, 1));
 }
 .bsb-tpl-highlight.bsb-tpl-highlight-lg {
   background-position: 0 90%;
